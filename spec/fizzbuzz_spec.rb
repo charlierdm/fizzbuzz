@@ -9,6 +9,6 @@ describe 'fizzbuzz' do
   end 
   
   it 'returns "fizzbuzz" when passed 5' do
-    expect(fizzbuzz(15)).to eq 'buzz'
+    expect(fizzbuzz(15)).to eq 'fizzbuzz'
   end
 end
